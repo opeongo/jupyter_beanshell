@@ -1,6 +1,6 @@
 # Jupyter Beanshell kernel
 
-This project implememts a BeanShell kernel for Jupyter Notebokks based on the [Jupyer JVM BaseKernel project by Spencer Park](https://github.com/SpencerPark/jupyter-jvm-basekernel).  The project is a simple wrapper to start a Beanshell interpreter using the JSR223 script engine factory, and then call eval() to do all of the work.
+This project implememts a BeanShell kernel for Jupyter Notebokks based on the [Juptyer JVM BaseKernel project by Spencer Park](https://github.com/SpencerPark/jupyter-jvm-basekernel).  The project is a simple wrapper to start a Beanshell interpreter using the JSR223 script engine factory, and then call eval() to do all of the work.
 
 ### Compiling
 
